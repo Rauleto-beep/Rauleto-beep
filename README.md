@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rauleto-beep
 - 👀 I’m interested in making a mod on Minecraft on a future
-- 🌱 I’m currently learning Java and I will start C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via discord: rauletillo
 - 😄 Pronouns: He/Him
